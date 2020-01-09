@@ -16,7 +16,7 @@ Grenze Gotisch is a big typeface system of 9 weights Thin, Extra Light, Light, R
 * Light
 * Regular
 * Medium
-* Semibold/SemiboldItalic
+* Semibold
 * Bold
 * ExtraBold
 * Black
