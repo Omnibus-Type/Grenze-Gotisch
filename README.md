@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Grenze Gotisch is a big typeface system of 9 weights Thin, Extra Light, Light, Regular, Medium, Semi Bold, Bold, Extra Bold and Black. A hybrid development between Roman and Blackletter styles, in search of combining the impact and attraction of texture with the readability of classical forms. Designed to be applied mainly in magazines, it presents great performance and a rich palette of colors that invites to uses creative applications. The name of this family derives from the word “frontier”. Grenze was designed by Renata Polastri & Omnibus-Type Team. 
+Grenze Gotisch: a peculiar version of Grenze, now presenting Blackletter uppercase letters and little dramatic details in certain lowercase letters, which intensify its expressive burden.
 
 
 ![Sample of Grenze-Gotisch Family.](GrenzeGotisch-01.png "Grenze Gotisch Family")
