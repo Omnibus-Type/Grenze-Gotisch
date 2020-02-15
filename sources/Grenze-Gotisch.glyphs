@@ -120,10 +120,10 @@ value = "Grenze Gotisch";
 },
 {
 name = "Variable Font Origin";
-value = "555729A4-F539-4650-9C4F-3880CB033E7B";
+value = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
 }
 );
-date = "2020-02-12 15:13:51 +0000";
+date = "2020-02-15 14:24:05 +0000";
 designer = "Renata Polastri";
 designerURL = "www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -1238,11 +1238,11 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -1250,23 +1250,23 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1100;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -380;
 },
 {
 name = hheaLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
-value = 0;
+value = 1111;
 },
 {
 name = winDescent;
-value = 0;
+value = 380;
 },
 {
 name = underlineThickness;
@@ -1274,7 +1274,7 @@ value = 24;
 },
 {
 name = underlinePosition;
-value = -164;
+value = -160;
 }
 );
 descender = -250;
@@ -1301,11 +1301,11 @@ capHeight = 603;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -1313,23 +1313,23 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1100;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -380;
 },
 {
 name = hheaLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
-value = 0;
+value = 1111;
 },
 {
 name = winDescent;
-value = 0;
+value = 380;
 },
 {
 name = underlineThickness;
@@ -1374,11 +1374,11 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1100;
 },
 {
 name = typoDescender;
-value = -250;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -1386,23 +1386,23 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 1100;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -380;
 },
 {
 name = hheaLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
-value = 0;
+value = 1111;
 },
 {
 name = winDescent;
-value = 0;
+value = 380;
 },
 {
 name = underlineThickness;
@@ -1410,7 +1410,7 @@ value = 93;
 },
 {
 name = underlinePosition;
-value = -157;
+value = -160;
 }
 );
 descender = -250;
