@@ -1,8 +1,5 @@
 {
-.appVersion = "1303";
-DisplayStrings = (
-"/H.ss01"
-);
+.appVersion = "1290";
 classes = (
 {
 code = "";
@@ -115,7 +112,7 @@ Tag = wght;
 },
 {
 name = "Variable Font File Name";
-value = "GrenzeGotisch[wght]";
+value = "Grenze Gotisch";
 },
 {
 name = variableStyleName;
@@ -123,10 +120,10 @@ value = "Grenze Gotisch";
 },
 {
 name = "Variable Font Origin";
-value = "555729A4-F539-4650-9C4F-3880CB033E7B";
+value = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
 }
 );
-date = "2020-03-21 18:56:57 +0000";
+date = "2020-02-15 14:24:05 +0000";
 designer = "Renata Polastri";
 designerURL = "www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -1225,11 +1222,15 @@ name = ss01;
 fontMaster = (
 {
 alignmentZones = (
-"{750, 10}",
+"{634, 10}",
 "{591, 10}",
+"{553, 10}",
+"{547, 10}",
+"{458, 10}",
 "{440, 10}",
 "{0, -10}",
-"{-250, -10}"
+"{-70, -10}",
+"{-165, -10}"
 );
 ascender = 750;
 capHeight = 591;
@@ -1277,23 +1278,23 @@ value = -160;
 }
 );
 descender = -250;
-horizontalStems = (
-27
-);
 iconName = Light;
 id = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
-verticalStems = (
-30
-);
+weightValue = 29;
 xHeight = 440;
 },
 {
 alignmentZones = (
-"{750, 9}",
+"{636, 10}",
 "{603, 9}",
+"{564, 9}",
+"{546, 10}",
+"{465, 9}",
 "{448, 9}",
 "{0, -9}",
-"{-250, -9}"
+"{-83, -9}",
+"{-172, -9}",
+"{-181, 0}"
 );
 ascender = 750;
 capHeight = 603;
@@ -1352,16 +1353,20 @@ GSCornerRadius = 15;
 verticalStems = (
 96
 );
-weightValue = 400;
+weightValue = 91;
 xHeight = 448;
 },
 {
 alignmentZones = (
-"{750, 14}",
+"{652, 14}",
 "{612, 14}",
+"{575, 14}",
+"{555, 14}",
+"{475, 14}",
 "{459, 14}",
-"{0, -14}",
-"{-250, -14}"
+"{0, -12}",
+"{-88, -14}",
+"{-171, -14}"
 );
 ascender = 750;
 capHeight = 612;
@@ -1409,16 +1414,10 @@ value = -160;
 }
 );
 descender = -250;
-horizontalStems = (
-95
-);
 id = "52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2";
 name = ExtraBold;
-verticalStems = (
-187
-);
 weight = Bold;
-weightValue = 900;
+weightValue = 156;
 xHeight = 459;
 }
 );
@@ -99877,10 +99876,11 @@ instances = (
 {
 customParameters = (
 {
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
+name = "Nueva propiedad";
+value = "Nuevo valor";
 }
 );
+interpolationWeight = 29;
 instanceInterpolations = {
 "4F39836F-1187-466E-8FAB-7EBF43C51BB4" = 1;
 };
@@ -99888,56 +99888,32 @@ name = Thin;
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 200;
+interpolationWeight = 45;
 instanceInterpolations = {
-"4F39836F-1187-466E-8FAB-7EBF43C51BB4" = 0.66667;
-"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.33333;
+"4F39836F-1187-466E-8FAB-7EBF43C51BB4" = 0.74194;
+"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.25806;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 300;
+interpolationWeight = 68;
 instanceInterpolations = {
-"4F39836F-1187-466E-8FAB-7EBF43C51BB4" = 0.33333;
-"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.66667;
+"4F39836F-1187-466E-8FAB-7EBF43C51BB4" = 0.37097;
+"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.62903;
 };
 name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 400;
+interpolationWeight = 91;
 instanceInterpolations = {
 "555729A4-F539-4650-9C4F-3880CB033E7B" = 1;
 };
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 500;
+interpolationWeight = 104;
 instanceInterpolations = {
 "52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.2;
 "555729A4-F539-4650-9C4F-3880CB033E7B" = 0.8;
@@ -99946,61 +99922,38 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 600;
+interpolationWeight = 120;
 instanceInterpolations = {
-"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.4;
-"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.6;
+"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.44615;
+"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.55385;
 };
 name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 700;
+interpolationWeight = 138;
 instanceInterpolations = {
-"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.6;
-"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.4;
+"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.72308;
+"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.27692;
 };
 isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 800;
+interpolationWeight = 156;
 instanceInterpolations = {
-"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 0.8;
-"555729A4-F539-4650-9C4F-3880CB033E7B" = 0.2;
+"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 1;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
-interpolationWeight = 900;
+interpolationWeight = 173;
 instanceInterpolations = {
-"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 1;
+"4F39836F-1187-466E-8FAB-7EBF43C51BB4" = -0.06693;
+"52F4C6DE-93AC-450D-9CD0-4DAC5691B9C2" = 1.1977;
+"555729A4-F539-4650-9C4F-3880CB033E7B" = -0.13077;
 };
 name = Black;
 weightClass = Black;
