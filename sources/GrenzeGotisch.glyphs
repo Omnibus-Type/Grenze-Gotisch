@@ -1,5 +1,5 @@
 {
-.appVersion = "1330";
+.appVersion = "1342";
 DisplayStrings = (
 "/H.ss01"
 );
@@ -1264,12 +1264,12 @@ name = winDescent;
 value = 380;
 },
 {
-name = underlineThickness;
-value = 24;
-},
-{
 name = underlinePosition;
 value = -160;
+},
+{
+name = underlineThickness;
+value = 44;
 }
 );
 descender = -250;
@@ -1396,12 +1396,12 @@ name = winDescent;
 value = 380;
 },
 {
-name = underlineThickness;
-value = 93;
-},
-{
 name = underlinePosition;
 value = -160;
+},
+{
+name = underlineThickness;
+value = 44;
 }
 );
 descender = -250;
